@@ -1,4 +1,4 @@
-# DriveSafe Vision – Driver Drowsiness Detection Using Computer Vision
+# AI-Powered Driver Drowsiness Prediction System
 
 ## Overview
 
